@@ -1,0 +1,37 @@
+.nav-titulo{
+    font-family: 'Righteous', cursive;
+    color: #E7A036 !important;
+}
+.titulo{
+    font-family: 'Righteous', cursive;
+    color: #34567B !important;
+    text-shadow: 4px 4px #3C425C;    
+}
+.sub-titulo{
+    font-family: 'Righteous', cursive;
+    color: #3C425C !important;    
+}
+
+i{
+    color:#E7A036;
+}
+
+.item{
+    font-family: 'Righteous', cursive;
+    color: #3C425C !important;    
+}
+
+.texto-footer{
+    font-family: 'Righteous', cursive;
+    color: #E6AD42;
+}
+
+.texto-apresentacao{
+    font-family: 'Righteous', cursive;
+    color: #3C425C;
+}
+
+.texto-conhecer{
+    font-family: 'Righteous', cursive;
+    color: #E6AD42;
+}
