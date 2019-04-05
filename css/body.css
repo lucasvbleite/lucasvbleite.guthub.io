@@ -1,3 +1,8 @@
 .cor-de-fundo{
     background-color: #E1E2E4;
 }
+
+nav {
+    height: 100px;
+    line-height: 100px;
+}
